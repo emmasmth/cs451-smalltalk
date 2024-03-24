@@ -15,6 +15,10 @@
 
 ## Resource links
 
+  ### GNU Smalltalk User's Guide
+
+  https://www.gnu.org/software/smalltalk/manual/gst.html#Starting-Smalltalk
+
   ### Smalltalk Hello World Example: How To Write and Execute Smalltalk Program on Linux OS (how-to hello world)
 
   https://www.thegeekstuff.com/2009/10/smalltalk-hello-world-example-how-to-write-and-execute-smalltalk-program-on-linux-os/
