@@ -17,6 +17,6 @@ Resource links
 
   https://www.thegeekstuff.com/2009/10/smalltalk-hello-world-example-how-to-write-and-execute-smalltalk-program-on-linux-os/
 
-https://jcsites.juniata.edu/faculty/rhodes/lt/smlltalktutor.htm
+  https://jcsites.juniata.edu/faculty/rhodes/lt/smlltalktutor.htm
 
-http://esug.org/data/Old/ibm/tutorial/CHAP3.HTML#3.30
+  http://esug.org/data/Old/ibm/tutorial/CHAP3.HTML#3.30
