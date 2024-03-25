@@ -1,9 +1,9 @@
 # History References
 
-## Computer History Museum: INTRODUCING THE SMALLTALK ZOO
+## Computer History Museum: INTRODUCING THE SMALLTALK ZOO **(His1)**
 
 https://computerhistory.org/blog/introducing-the-smalltalk-zoo-48-years-of-smalltalk-history-at-chm/#:~:text=Smalltalk%20was%20a%20revolutionary%20system,on%20PARC's%20groundbreaking%20Alto%20computer.
 
-## The Early History of Smalltalk (Alan Kay)
+## The Early History of Smalltalk - Alan Kay **(His2)**
 
 https://worrydream.com/EarlyHistoryOfSmalltalk/#p38
