@@ -6,4 +6,14 @@ https://dl.acm.org/doi/pdf/10.5555/273
 
 https://www.thefreecountry.com/compilers/smalltalk.shtml
 
-## also Pharo, VisualWorks, GemStone/S
+## Pharo **(CI3)**
+
+https://pharo.org/
+
+## GemStone/S **(CI4)**
+
+https://gemtalksystems.com/products/gs64/
+
+## VirtualWorks **(CI5)**
+
+https://www.cincomsmalltalk.com/main/products/visualworks/
