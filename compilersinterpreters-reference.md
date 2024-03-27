@@ -17,3 +17,7 @@ https://gemtalksystems.com/products/gs64/
 ## VirtualWorks **(CI5)**
 
 https://www.cincomsmalltalk.com/main/products/visualworks/
+
+## GNU Smalltalk **(CI6)**
+
+https://www.gnu.org/software/smalltalk/
