@@ -8,6 +8,14 @@ https://computerhistory.org/blog/introducing-the-smalltalk-zoo-48-years-of-small
 
 https://worrydream.com/EarlyHistoryOfSmalltalk/#p38
 
+## Comparison of Three Major Programming Languages with Smalltalk **(His3)**
+
+https://richardeng.medium.com/comparison-of-three-major-programming-languages-with-smalltalk-ba9061008921
+
+
+
+
+
 # Main Paradigm References
 
 ## Inside Smalltalk **(MainP1)**
@@ -30,3 +38,4 @@ https://www.cincomsmalltalk.com/main/successes/shipping/orient-overseas-containe
 
 ## JP Morgan Derives Clear Benefits from Cincom SmallTalk **(App2)**
 chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.cincom.com/pdf/CS040819-1.pdf
+
